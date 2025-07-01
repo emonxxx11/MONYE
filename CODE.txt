@@ -1,1 +1,2 @@
+private static string number = "00000";
 
